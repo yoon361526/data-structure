@@ -6,6 +6,7 @@
             "type": "shell",
             "command": "gcc",
             "args": [
+                "-std=gnu89",
                 "-g",
                 "${file}",
                 "-o",
@@ -25,6 +26,7 @@
             "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe",
             "args": [
                 "-fdiagnostics-color=always",
+                "-std=gnu89",
                 "-g",
                 "${file}",
                 "-o",
