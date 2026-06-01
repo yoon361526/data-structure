@@ -1,6 +1,3 @@
-
-//출처: 천인국 공용해 하상호
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <memory.h>
