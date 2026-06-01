@@ -1,5 +1,3 @@
-//출처: 천인국 공용국 하상호
-
 #include <stdio.h>
 #define NULL 0
 #define TRUE 1
