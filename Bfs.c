@@ -1,6 +1,3 @@
-//출처: 천인국 공용국 하상호
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #define TRUE 1
